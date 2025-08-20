@@ -4,5 +4,3 @@ feature:
   - app/lib/aiCareerGuidance.js
 enhancement:
   - changed-files:*.js
-documentation:
-  - docs/**

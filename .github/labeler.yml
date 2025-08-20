@@ -1,0 +1,6 @@
+frontend:
+  - "app/**"
+backend:
+  - "lib/**"
+documentation:
+  - "**/*.md"

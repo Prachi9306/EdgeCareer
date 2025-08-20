@@ -48,7 +48,7 @@ export default function CareerGuidance() {
         <Card>
           <CardContent className="pt-4">
             <h2 className="text-xl font-semibold">Recommended Career Paths:</h2>
-            {guidance.careerPaths.length > 0 ? (
+            {guidance.careerPaths && guidance.careerPaths.length > 0 ? (
               <ul>
                 {guidance.careerPaths.map((path, index) => (
                   <li key={index}>{path}</li>

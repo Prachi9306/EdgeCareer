@@ -1,6 +1,12 @@
-frontend:
-  - "app/**"
-backend:
-  - "lib/**"
+# .github/labeler.yml
+feature:
+  - app/career-guidance/*
+  - app/lib/aiCareerGuidance.js
+enhancement:
+  - changed-files:*.js
 documentation:
-  - "**/*.md"
+  - docs/**
+  components:
+  - app/components/*
+styles:
+  - app/styles/*

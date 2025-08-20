@@ -6,7 +6,3 @@ enhancement:
   - changed-files:*.js
 documentation:
   - docs/**
-  components:
-  - app/components/*
-styles:
-  - app/styles/*

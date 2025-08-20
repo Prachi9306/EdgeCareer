@@ -1,6 +1,6 @@
 # .github/labeler.yml
 feature:
-  - "app/career-guidance/*""
-  - "app/lib/aiCareerGuidance.js"
+  - app/career-guidance/*
+  - app/lib/aiCareerGuidance.js
 enhancement:
-  - "changed-files:*.js"
+  - changed-files:*.js
